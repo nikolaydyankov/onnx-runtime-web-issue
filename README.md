@@ -1,6 +1,9 @@
 # Steps to reproduce
 
-`npm install npm run dev`
+```
+npm install
+npm run dev
+```
 
 Open http://localhost:5174 in browser and look at console.
 

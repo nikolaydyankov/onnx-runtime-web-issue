@@ -7,4 +7,4 @@
   })
 </script>
 
-<a href="/app">/app</a>
+Hello World
